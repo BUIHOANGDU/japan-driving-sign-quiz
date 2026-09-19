@@ -57,7 +57,7 @@ const signs = [
   sign(17, '17.png', 'Giới hạn tổng trọng lượng 5,5 tấn', 'Biển cấm', 'sign',
     'Xe có tổng trọng lượng lớn hơn 5,5 tấn không được đi qua. Đây là tổng trọng lượng của xe, không phải chỉ là trọng lượng hàng hóa đang chở.',
     ['Xe có tổng trọng lượng lớn hơn 5,5 tấn không được đi qua.', 'Không phải chỉ là trọng lượng hàng hóa.']),
-  sign(18, '18.jpg', 'Giới hạn chiều cao 2,2 m', 'Biển cấm', 'sign',
+  sign(18, '18.jpg', 'Giới hạn chiều rộng 2,2 m', 'Biển cấm', 'sign',
     'Xe có chiều cao, bao gồm cả hàng hóa, lớn hơn 2,2 m không được đi qua. Nguyên tắc giống số 14, chỉ khác trị số giới hạn.',
     ['Xe cao hơn 2,2 m không được đi qua.', 'Bao gồm cả hàng hóa.']),
   sign(19, '19.png', 'Cấm vượt xe', 'Biển cấm', 'sign',
