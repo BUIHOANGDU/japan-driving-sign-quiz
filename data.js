@@ -85,7 +85,7 @@ const signs = [
     'Xe, người đi bộ và tàu điện có thể tiếp tục đi, nhưng phải chú ý đến các phương tiện và người tham gia giao thông khác. Riêng tín hiệu vàng nhấp nháy không bắt buộc xe phải dừng hẳn.',
     ['Có thể tiếp tục đi nhưng phải chú ý.', 'Không bắt buộc xe phải dừng hẳn.']),
   sign(27, '27.jpg', 'Khu vực phải sử dụng còi', 'Biển chỉ dẫn', 'sign',
-    'Ảnh của tiểu thư có biển còi kèm biển phụ chỉ đang ở trong đoạn áp dụng, nên đây là “khu vực phải sử dụng còi”, không phải cứ vào khu vực là bấm còi liên tục. Trong khu vực này phải bấm còi khi đi qua giao lộ bị khuất tầm nhìn, khúc cua bị khuất tầm nhìn hoặc đỉnh dốc lên bị khuất tầm nhìn. Ngoài các trường hợp pháp luật yêu cầu, được bấm còi khi thật sự cần để tránh nguy hiểm; còn các trường hợp khác thì không được tùy tiện bấm còi.',
+    'Biển còi kèm biển phụ chỉ đang ở trong đoạn áp dụng, nên đây là “khu vực phải sử dụng còi”, không phải cứ vào khu vực là bấm còi liên tục. Trong khu vực này phải bấm còi khi đi qua giao lộ bị khuất tầm nhìn, khúc cua bị khuất tầm nhìn hoặc đỉnh dốc lên bị khuất tầm nhìn. Ngoài các trường hợp pháp luật yêu cầu, được bấm còi khi thật sự cần để tránh nguy hiểm; còn các trường hợp khác thì không được tùy tiện bấm còi.',
     ['Không phải cứ vào khu vực là bấm còi liên tục.', 'Phải bấm còi tại giao lộ, khúc cua hoặc đỉnh dốc lên bị khuất tầm nhìn.']),
   sign(28, '28.png', 'Tín hiệu mũi tên vàng', 'Đèn tín hiệu', 'traffic_light',
     'Mũi tên màu vàng chỉ cho tàu điện chạy trên đường. Tàu điện có thể đi theo hướng mũi tên kể cả khi tín hiệu tròn đang vàng hoặc đỏ. Người đi bộ và các loại xe đường bộ không được đi chỉ vì mũi tên vàng đang sáng.',
